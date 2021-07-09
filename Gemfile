@@ -33,3 +33,6 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # update kramdown
 gem "kramdown", ">= 2.3.1"
+
+gem "faraday", "<1.0"
+gem "activesupport", ">=4.1.11"
