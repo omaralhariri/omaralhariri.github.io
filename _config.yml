@@ -16,7 +16,7 @@
 title: Curiosity Blog
 description: >- # this means to ignore newlines until "baseurl:"
   A blog to help me learn and talk about what I learn. It would be about machine/deep learning, math, and could include a bunch of other things.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: om_alhariri
 github_username:  omaralhariri
