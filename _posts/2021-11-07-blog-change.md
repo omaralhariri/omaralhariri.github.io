@@ -5,6 +5,6 @@ date:   2021-11-07 10:00:00 +0300
 categories: jekyll update
 ---
 
-##Blog Change
+## Blog Change
 
 The blog has been changed to [New Blog](https://omaralhariri.github.io/blog/)
